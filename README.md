@@ -39,6 +39,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Gui.faccin)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfaccin27@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/Faccin27?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Gui.faccin)](https://www.linkedin.com/in/guilherme-faccin-5b71a5172/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfaccin27@gmail.com)](mailto:gfaccin27@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Faccin27?label=follow&style=social)](https://github.com/Faccin27/)
