@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Informatica para redes no Senai.
-- 💼 Procurando oportunidades de trabalho como junior dev.
+- 💼 Procurando oportunidades de trabalho como desenvolvedor front-end.
 - 🌱 Aprendendo mais sobre JavaScript.
 
 ## Minhas Skills
