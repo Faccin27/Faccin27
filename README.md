@@ -34,7 +34,7 @@
 <br/>
 
 <a href="https://github.com/Faccin27" title="Perfil de Faccin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccin27i&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccin27&layout=compact&langs_count=7&theme=rose_pine"/>
 </a>
 
 ## Onde me encontrar
