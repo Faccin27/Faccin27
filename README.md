@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Tecnico em Informatica para internet.
-- 🎓 Tecnico em Automação Industrial.
+- 🎓 Técnico em Informática para Internet.
+- 🎓 Técnico em Automação Industrial.
 - 💼 Procurando oportunidades de trabalho como desenvolvedor full-stack.
 - 🌱 Aprendendo mais sobre React.
 
@@ -33,6 +33,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+## Portfólio
+
+[![Portfólio](https://img.shields.io/badge/-Meu%20Portfólio-blue?style=flat-square&logo=GitHub&logoColor=white)](https://faccin27.github.io/My_portfolioR/)
+
 <br/>
 
 <a href="https://github.com/Faccin27" title="Perfil de Faccin">
@@ -45,3 +49,5 @@
 [![Linkedin](https://img.shields.io/badge/-guilherme_faccin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Gui.faccin)](https://www.linkedin.com/in/guilherme-faccin-5b71a5172/)
 [![Gmail Badge](https://img.shields.io/badge/-gfaccin27@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfaccin27@gmail.com)](mailto:gfaccin27@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Faccin27?label=follow&style=social)](https://github.com/Faccin27/)
+
+
