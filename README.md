@@ -1,53 +1,67 @@
-![](https://komarev.com/ghpvc/?username=Faccin27&color=006bed)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Faccin27.Faccin27" />
 
-## Sobre mim
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+Faccin!;" />
+</h1>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Técnico em Informática para Internet.
-- 🎓 Técnico em Automação Industrial.
-- 💼 Procurando oportunidades de trabalho como desenvolvedor full-stack.
-- 🌱 Aprendendo mais sobre React.
-
-## Minhas Skills
-
-**Aplicações e dados**
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-## Portfólio
-
-[![Portfólio](https://img.shields.io/badge/-Meu%20Portfólio-blue?style=flat-square&logo=GitHub&logoColor=white)](https://faccin27.github.io/My_portfolioR/)
+<h3 align="center">A passionate fullstack developer from Brasil - SC</h3>
 
 <br/>
 
-<a href="https://github.com/Faccin27" title="Perfil de Faccin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=faccin27&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccin27&layout=compact&langs_count=7&theme=rose_pine"/>
-</a>
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, next.js, DevOps**
 
-## Onde me encontrar
+💬 Ask me about **Node.js, React, mySQL... or anything [here](https://github.com/Faccin27/Faccin27/issues)**
 
-[![Linkedin](https://img.shields.io/badge/-guilherme_faccin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Gui.faccin)](https://www.linkedin.com/in/guilherme-faccin-5b71a5172/)
-[![Gmail Badge](https://img.shields.io/badge/-gfaccin27@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gfaccin27@gmail.com)](mailto:gfaccin27@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Faccin27?label=follow&style=social)](https://github.com/Faccin27/)
+⚡ Fun fact **Besides being a fullstack dev, I'm also an industrial automation technician.**
 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:gfaccin27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-faccin-5b71a5172/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://faccin27.github.io/My_portfolioR/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,nextjs,mysql" /><br>
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-Faccin27.vercel.app/?user=Faccin27&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Faccin27.vercel.app/api?username=Faccin27&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Faccin27.vercel.app/api/top-langs/?username=Faccin27&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://faccin27.github.io/My_portfolioR/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+</div>
+
+<br/>
