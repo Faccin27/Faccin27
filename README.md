@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, vue, DevOps**
+ 🌱 I’m currently learning **TurboRepo and DevOps**
 
 💬 Ask me about **Node.js, React, mySQL... or anything [here](https://github.com/Faccin27/Faccin27/issues)**
 
