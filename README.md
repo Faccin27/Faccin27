@@ -1,10 +1,12 @@
-![](https://komarev.com/ghpvc/?username=Faccin27&color=006bed)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2D68C4,100:2D68C4"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+Faccin!;" />
+
+![](https://komarev.com/ghpvc/?username=Faccin27&color=006bed)
 </h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+Faccin!;" />
+</h3>
 
 <h3 align="center">A passionate fullstack developer from Brasil - SC</h3>
 
